@@ -13,7 +13,6 @@ im 14 years old coder <br>Role: Software Developer<br>Focus: Web Development & E
 <p align="center">
   <img src="https://ghchart.rshah.org/foxk1ds" alt="foxk1ds's Github Contribution Chart" width="100%" />
 </p>
-![](https://streak-stats.demolab.com/?user=]foxk1ds&theme=dark&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
